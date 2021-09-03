@@ -22,12 +22,12 @@ function loop() {
       currentCharacter = text[iterator-1] 
     let currentText = document.querySelector("#typewriter").textContent
     let newText = currentText + currentCharacter
-    if (currentCharacter == " ") {
+   /*  if (currentCharacter == " ") {
         document.querySelector()
     }
     else {
 
-    }
+    } */
     /* <audio id="typekey1" src="typekey1.mp3"></audio>
         <audio id="typekey2" src="typekey2.mp3"></audio>
         <audio id="typespace" src="typespace.mp3"></audio> */
